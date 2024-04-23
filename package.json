@@ -1,7 +1,7 @@
 {
-  "name": "likitung-frontend",
+  "name": "testing-frontend",
   "version": "0.1.0",
-  "homepage": "https://mssuhaas.github.io/testing-frontend",
+  "homepage": ".",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
